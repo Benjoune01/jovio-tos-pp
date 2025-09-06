@@ -37,7 +37,7 @@ function loadTermsOfService() {
     
     const termsHTML = `
         <h3>1. 📋 Hizmet Tanımı</h3>
-        <p><strong>Jovio Bot</strong>, Discord platformu üzerinde yapay zeka teknolojisi kullanarak video ve görsel üretimi yapan bir Discord botudur. Bu bot, CRAULE API servisi ile entegre çalışarak kullanıcıların metin açıklamalarından yüksek kaliteli videolar ve görseller üretmesine olanak sağlar.</p>
+        <p><strong>Jovio Bot</strong>, Discord platformu üzerinde yapay zeka teknolojisi kullanarak video ve görsel üretimi yapan bir Discord botudur. Bu bot, JOVIO API servisi ile entegre çalışarak kullanıcıların metin açıklamalarından yüksek kaliteli videolar ve görseller üretmesine olanak sağlar.</p>
         
         <h4>1.1 Sunulan Hizmetler</h4>
         <ul>
@@ -229,7 +229,7 @@ function loadPrivacyPolicy() {
         <h4>5.1 Hizmet Sağlayıcıları</h4>
         <p>Verileriniz aşağıdaki üçüncü taraf hizmetlerle paylaşılabilir:</p>
         <ul>
-            <li><strong>CRAULE API:</strong> Video/görsel üretimi için</li>
+            <li><strong>JOVIO API:</strong> Video/görsel üretimi için</li>
             <li><strong>Discord API:</strong> Bot işlevselliği için</li>
             <li><strong>MySQL Veritabanı:</strong> Veri saklama için</li>
         </ul>
