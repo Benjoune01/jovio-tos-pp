@@ -4,7 +4,7 @@ Bu repository, **Jovio Discord Bot** için hizmet şartları ve gizlilik politik
 
 ## 🌐 Canlı Site
 
-Website: [https://[username].github.io/jovio-tos-pp/](https://Benjoune01.github.io/jovio-tos-pp/)
+Website: [https://Benjoune01.github.io/jovio-tos-pp/](https://Benjoune01.github.io/jovio-tos-pp/)
 
 ## 📋 İçerik
 
