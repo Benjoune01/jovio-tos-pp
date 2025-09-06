@@ -108,13 +108,6 @@ Hizmet şartları veya gizlilik politikasını güncellemek için:
 }
 ```
 
-### 5.3 İletişim Bilgileri
-```javascript
-// script.js dosyasında iletişim bilgilerini güncelleyin
-// E-posta adreslerini kendi adresinizle değiştirin
-// GitHub repository linklerini güncelleyin
-```
-
 ## 🚨 6. Sorun Giderme
 
 ### 6.1 Site Açılmıyor
@@ -132,33 +125,15 @@ Hizmet şartları veya gizlilik politikasını güncellemek için:
 - **Kontrol**: URL'ler tam ve doğru mu?
 - **Çözüm**: Discord Developer Portal'da URL'leri tekrar kaydedin
 
-## 📊 7. Analytics ve Monitoring (Opsiyonel)
+## 🔄 7. Güncelleme Süreci
 
-### 7.1 Google Analytics
-```html
-<!-- index.html head bölümüne ekleyin -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'GA_MEASUREMENT_ID');
-</script>
-```
-
-### 7.2 Site Monitoring
-- [UptimeRobot](https://uptimerobot.com/) ile site durumunu izleyin
-- [PageSpeed Insights](https://pagespeed.web.dev/) ile performans ölçün
-
-## 🔄 8. Güncelleme Süreci
-
-### 8.1 Düzenli Güncelleme
+### 7.1 Düzenli Güncelleme
 1. Yasal değişiklikler için dökümanları gözden geçirin
 2. Bot özelliklerine göre hizmet şartlarını güncelleyin
 3. Değişiklik tarihlerini güncelleyin
 4. Kullanıcıları Discord'da bilgilendirin
 
-### 8.2 Version Control
+### 7.2 Version Control
 ```bash
 # Güncelleme öncesi backup
 git tag v1.0.0
@@ -172,15 +147,7 @@ git push origin main
 git push origin v1.1.0
 ```
 
-## 📞 9. Destek
-
-Deployment sırasında sorun yaşarsanız:
-
-1. **GitHub Issues**: Repository'nizde issue açın
-2. **Discord Community**: Discord geliştirici topluluklarından yardım alın
-3. **Documentation**: GitHub Pages ve Discord Bot dokümantasyonlarını inceleyin
-
-## ✨ 10. Tamamlandı!
+## ✨ 8. Tamamlandı!
 
 Tebrikler! 🎉 Jovio Bot'unuz artık profesyonel Terms of Service ve Privacy Policy'ye sahip.
 

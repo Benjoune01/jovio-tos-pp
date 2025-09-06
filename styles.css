@@ -281,79 +281,6 @@ body {
     color: var(--primary-color);
 }
 
-/* Contact Section */
-.contact-section {
-    padding: 4rem 0;
-    background-color: var(--bg-primary);
-}
-
-.contact-content {
-    text-align: center;
-}
-
-.contact-content h2 {
-    font-size: 2.5rem;
-    font-weight: 700;
-    color: var(--primary-color);
-    margin-bottom: 1rem;
-}
-
-.contact-content > p {
-    color: var(--text-secondary);
-    font-size: 1.1rem;
-    margin-bottom: 3rem;
-}
-
-.contact-info {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 2rem;
-    margin-top: 2rem;
-}
-
-.contact-item {
-    background: var(--bg-secondary);
-    padding: 2rem;
-    border-radius: var(--border-radius-lg);
-    box-shadow: var(--shadow-sm);
-    border: 1px solid var(--border-color);
-    transition: var(--transition);
-}
-
-.contact-item:hover {
-    transform: translateY(-4px);
-    box-shadow: var(--shadow-lg);
-}
-
-.contact-item h3 {
-    color: var(--primary-color);
-    font-size: 1.3rem;
-    margin-bottom: 1rem;
-}
-
-.contact-item p {
-    color: var(--text-secondary);
-    line-height: 1.6;
-}
-
-.contact-item a {
-    color: var(--primary-color);
-    text-decoration: none;
-    font-weight: 500;
-}
-
-.contact-item a:hover {
-    text-decoration: underline;
-}
-
-.contact-item code {
-    background: var(--primary-color);
-    color: white;
-    padding: 0.2rem 0.5rem;
-    border-radius: 4px;
-    font-family: 'Courier New', monospace;
-}
-
 /* Footer */
 .footer {
     background-color: var(--bg-dark);
@@ -445,10 +372,6 @@ body {
     .terms-content,
     .privacy-content {
         padding: 1.5rem;
-    }
-    
-    .contact-info {
-        grid-template-columns: 1fr;
     }
     
     .footer-content {

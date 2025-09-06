@@ -79,12 +79,6 @@ TOS&PP/
 ### İçerik Güncelleme
 Hizmet şartları ve gizlilik politikası içeriği `script.js` dosyasındaki `loadTermsOfService()` ve `loadPrivacyPolicy()` fonksiyonlarında bulunur.
 
-### İletişim Bilgileri
-`script.js` ve `index.html` dosyalarındaki iletişim bilgilerini kendi bilgilerinizle güncelleyin:
-- E-posta adresleri
-- GitHub repository linkleri
-- Destek kanalları
-
 ## 🔧 Teknik Detaylar
 
 ### Tarayıcı Desteği
@@ -101,16 +95,8 @@ Hizmet şartları ve gizlilik politikası içeriği `script.js` dosyasındaki `l
 
 ### SEO Optimizasyonu
 - Meta tags
-- Structured data (opsiyonel)
 - Semantic HTML
 - Alt text'ler
-
-## 📞 Destek
-
-Bu dökümanlar hakkında sorularınız için:
-- 📧 E-posta: support@jovio-bot.com
-- 🤖 Discord: `/help` komutu
-- 🔗 GitHub: Issue açın
 
 ## 📄 Lisans
 
